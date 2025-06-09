@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/seu-usuario/seu-projeto" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
-
-[circleci-image]: https://img.shields.io/circleci/build/github/seu-usuario/seu-projeto/master?logo=circleci&label=build&color=blue
-[circleci-url]: https://circleci.com/gh/seu-usuario/seu-projeto
 
 <p align="center">
   <strong>API RESTful para gerenciamento de tarefas</strong> desenvolvida com <a href="https://nodejs.org/" target="_blank">Node.js</a>, <a href="https://nestjs.com/" target="_blank">NestJS</a>, <a href="https://sequelize.org/" target="_blank">Sequelize</a> e <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>.

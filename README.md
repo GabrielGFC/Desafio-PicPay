@@ -123,5 +123,5 @@ src/
 
 ## Autor
 
-* Seu Nome — [@gabrielgfc](https://github.com/gabrielgfc)
+* Gabriel Fernandes de Carvalho — [@gabrielgfc](https://github.com/gabrielgfc)
 

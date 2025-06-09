@@ -1,15 +1,3 @@
-
-<p align="center">
-  <strong>API RESTful para gerenciamento de tarefas</strong> desenvolvida com <a href="https://nodejs.org/" target="_blank">Node.js</a>, <a href="https://nestjs.com/" target="_blank">NestJS</a>, <a href="https://sequelize.org/" target="_blank">Sequelize</a> e <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>.
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/seu-pacote" target="_blank"><img src="https://img.shields.io/npm/v/seu-pacote.svg" alt="NPM Version" /></a>
-  <a href="https://github.com/seu-usuario/seu-projeto/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/seu-usuario/seu-projeto.svg" alt="License" /></a>
-</p>
-
-## Descrição
-
 Esta aplicação fornece uma API RESTful para gerenciamento de tarefas, permitindo que usuários se registrem, autentiquem via JWT e realizem operações de CRUD (criar, ler, atualizar, deletar) em tarefas.
 
 ## Tecnologias Utilizadas
